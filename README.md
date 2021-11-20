@@ -43,8 +43,3 @@
     ```
     http://localhost:5000/getphonenumber/?address={input_address}
     ```
-    You can run the unit test with this command:
-    ```
-    pytest
-    ```
-    You can find all test case on `test` folder
